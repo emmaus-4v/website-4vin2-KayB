@@ -10,7 +10,7 @@ Gemaakt door: Kay Bronder
 Werk de planning af van boven naar beneden<br>
 Geef aan met [x] welke onderdelen af zijn
 
-### Basisstappen
+### Basisstappen. 
 
 Stap 1: Start 
 - [x] Je hebt het onderwerp van je website gekozen en door je docent laten goedkeuren. 
