@@ -3,16 +3,16 @@
 html, body {
     height: 100%;
     padding: 0;
-    background-color: #EEEEEE;  
+    background-color: #000000;  
     
-    color: #303030;
+    color: #ffffff;
     font: Verdana, Arial, Sans-Serif;
 }
 
 
 main {
     margin: 0 auto;
-    width: 700px;
+    width: 800px;
     position: relative;
 }
 
@@ -23,7 +23,7 @@ article {
 
 
 header {
-    color: skyblue;
+    color: rgb(255, 0, 0);
     text-align: center;
 }
 
@@ -39,6 +39,7 @@ footer {
 img.zweefLinks {
     float: left;
     margin-right: 15px;
+    width: 500px;
 }
 
 .smalltext {
