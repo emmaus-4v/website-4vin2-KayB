@@ -1,3 +1,11 @@
+/* basis instellingen */
+* {
+    margin:0px;
+    border: solid 2px white;
+    box-sizing:border-box;
+    overflow:auto;
+}
+
 /* Basislayout */
 
 html, body {
@@ -36,10 +44,15 @@ footer {
 
 /* specifieke stijlen */
 
-img.zweefLinks {
+img.kolomLinks {
     float: left;
-    margin-right: 15px;
-    width: 500px;
+    margin-right: 10px;
+    width: 200px;
+}
+
+.kolomRechts {
+float:right;
+width: calc(100% - 200px - 40px)
 }
 
 .smalltext {
