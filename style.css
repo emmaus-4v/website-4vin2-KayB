@@ -44,15 +44,15 @@ footer {
 
 /* specifieke stijlen */
 
-img.kolomLinks {
+.kolomLinks {
     float: left;
     margin-right: 10px;
-    width: 200px;
+    width: 500px;
 }
 
 .kolomRechts {
 float:right;
-width: calc(100% - 200px - 40px)
+width: calc( 100% - 500px - 20px );
 }
 
 .smalltext {
