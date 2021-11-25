@@ -1,7 +1,7 @@
 /* basis instellingen */
 * {
     margin:0px;
-    border: solid 2px white;
+    border: solid 2px rgb(136, 84, 7);
     box-sizing:border-box;
     overflow:auto;
 }
