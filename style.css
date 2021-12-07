@@ -1,7 +1,7 @@
 /* basis instellingen */
 * {
     margin:0px;
-    border: solid 2px rgb(136, 84, 7);
+    border: solid 2px rgb(0, 0, 0);
     box-sizing:border-box;
     overflow:auto;
 }
@@ -43,6 +43,32 @@ footer {
 
 
 /* specifieke stijlen */
+
+.linksboven {
+    float: left;
+    margin-right: 10px;
+    width: 350px;
+}
+.rechtsOnder{ 
+    float: right;
+    margin-left: 10px;
+    margin-top: 20px;
+    width: 350px;
+    border-top: solid 2px white;
+}
+.HomeTekstRechts{
+    float: right; 
+    margin-right: 10px;
+    width: calc( 100% - 350px - 20px);
+
+}
+.linksOnder{
+    float: left;
+    margin-right: 10px;
+    margin-top: 20px;
+    width: calc( 100% - 350px - 20px);
+    border-top: solid 2px white;
+}
 
 .kolomLinks {
     float: left;
