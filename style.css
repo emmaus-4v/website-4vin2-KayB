@@ -83,7 +83,9 @@ float:right;
 width: calc( 100% - 800px - 20px );
 margin-top: 20px;
 }
-
+.HoogteFout {
+    height: 500px;
+}
 .smalltext {
     font-size: 0.7em;
     float: bottom;
