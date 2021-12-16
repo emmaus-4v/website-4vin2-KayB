@@ -48,6 +48,7 @@ footer {
     float: left;
     margin-right: 10px;
     width: 600px;
+    height: 350px;
 }
 .rechtsOnder{ 
     float: right;
@@ -57,8 +58,8 @@ footer {
 }
 .HomeTekstRechts{
     float: right; 
-    margin-right: 10px;
-    width: calc( 100% - 600px - 20px);
+    margin-right: 20px;
+    width: calc( 100% - 1200px - 40px);
 
 }
 .linksOnder{
@@ -85,6 +86,7 @@ margin-top: 20px;
 }
 .HoogteFout {
     height: 500px;
+    list-style: circle;
 }
 .smalltext {
     font-size: 0.7em;
